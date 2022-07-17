@@ -4,7 +4,7 @@
   "private": true,
   "author": "<nour.ali.abdou@gmail.com>",
   "repository": "https://github.com/NourAliAbdou/react-native-ts-boilerplate",
-  "description": "typescript & Clean and testable code & clear structure & redux toolkit & dark/ ligh mode & navigation 6 & FetchBlob networking =>>> README ::> soon",
+  "description": "typescript 💙 & Clean and testable code & clear structure & redux toolkit & dark/ ligh mode & navigation 6 & FetchBlob networking =>>> README ::> soon",
   "license": "MIT",
   "scripts": {
     "android": "react-native run-android",
