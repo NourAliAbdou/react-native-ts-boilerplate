@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#000000</color>
+    <color name="petrol">#535259</color>
+    <color name="accent">#041B2D</color>
+    <color name="splashscreen_bg">#e7c8c3</color>
+    <color name="app_bg">#fafafa</color>
+    <color type="color" name="main"> #F28379</color>
+</resources>
